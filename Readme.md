@@ -75,6 +75,15 @@ https://www.johnlevine.com/index.phtml
 [Zen of Assembly Language](https://www.jagregory.com/abrash-zen-of-asm/)  
 <img src="./assets/ZEN OF ASSEMBLY LANGUAGE (cover).jpg" alt="Book Cover" width="320">
 
+## nicebyte
+
+[Let's Learn x86-64 Assembly!](https://gpfault.net/posts/asm-tut-0.txt.html)
+
+* [Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
+* [Part 1 - Metaprogramming in Flat Assembler](https://gpfault.net/posts/asm-tut-1.txt.html)
+* [Part 2 - We're Writing a Virtual Machine](https://gpfault.net/posts/asm-tut-2.txt.html)
+* [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
+
 ## Tools
 
 Order by interest. My preference was on simple tools written in a C-like, data-oriented, or procedural way. I don't want to deal with low level tooling marred by dense language abstractions.
