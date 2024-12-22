@@ -28,7 +28,7 @@ These are in alphabetical order by author.
 ## Casey Muratori
 
 [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)  
-<img src="./assets/Computer Enhance banner.jpg" alt="Book Cover" width="320">
+<img src="./assets/Computer Enhance banner.jpg" alt="Banner" width="320">
 
 * Part 1: Reading ASM
   * [Instruction Decoding on the 8086](https://www.computerenhance.com/p/instruction-decoding-on-the-8086)
@@ -52,6 +52,11 @@ https://www.davidsalomon.name
 
 [Assemblers and Loaders (1993)](https://www.davidsalomon.name/assem.advertis/AssemAd.html)  
 <img src="./assets/ASSEMBLERS%20AND%20LOADERS%20(upscale%20&%20cleanedup).png" alt="Book Cover" width="320">
+
+## Edson Borin
+
+[An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book/riscv-book.html)  
+<img src="./assets/An Introduction to Assembly Programming with RISC-V.jpg" alt="Book Cover" width="320">
 
 ## Ian Lance Taylor
 
@@ -78,7 +83,7 @@ Order by interest. My preference was on simple tools written in a C-like, data-o
 
 * [ZASM (Zydis frontend, not to be confused with Z80 assembler...)](https://github.com/zyantific/zasm)
 
-[YASM (Rewrite of (some) of Netwide in C)](https://yasm.tortall.net)
+[YASM (Rewrite (on some) of Netwide in C)](https://yasm.tortall.net)
 
 * [Design](https://www.tortall.net/projects/yasm/reference/design/design.pdf)
 * [User Manual](https://www.tortall.net/projects/yasm/manual/manual.pdf)
@@ -90,19 +95,19 @@ Order by interest. My preference was on simple tools written in a C-like, data-o
 
 * [AsmTK](https://github.com/asmjit/asmtk)
 
-[FASM](https://flatassembler.net)
-
 [VASM](http://sun.hasenbraten.de/vasm/)
 
-[HLA](https://plantation-productions.com/Webster/HighLevelAsm/index.html)
+[FASM](https://flatassembler.net)
 
 [TASM](https://github.com/qb40/tasm)
 
-Everything below is just noted to exist but I don't care for.
+[HLA](https://plantation-productions.com/Webster/HighLevelAsm/index.html)
 
-[Netwide Assembler](https://www.nasm.us)
+Assemblers below are just noted to exist but I don't care for.
 
 [MASM](https://github.com/qb40/masm)
+
+[Netwide Assembler](https://www.nasm.us)
 
 [GAS](https://wiki.osdev.org/GAS)
 
