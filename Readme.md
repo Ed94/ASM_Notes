@@ -25,6 +25,12 @@ These are in alphabetical order by author.
 * [Part 8: Finishing opcode processing](https://briancallahan.net/blog/20210414.html)
 * [Source](https://github.com/ibara/d80)
 
+## Brian R. Hall
+
+[Assembly Programming and Computer Architecture for Software Engineers](https://brianrhall.com/book/)
+<img src="./assets/Assembly Programming and Computer Architecture for Software Engineers (Cover_Ed2).png" alt="Book Cover" width="320">
+
+
 ## Casey Muratori
 
 [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)  
@@ -129,3 +135,5 @@ Assemblers below are just noted to exist but I don't care for.
 ## Misc
 
 [SBCL: the ultimate assembly code breadboard](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
+
+[mschwartz's assembly tutorial](https://github.com/mschwartz/assembly-tutorial)
