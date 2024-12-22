@@ -76,6 +76,11 @@ https://www.johnlevine.com/index.phtml
 [Linkers and Loaders (2000)](https://linker.iecc.com)  
 <img src="./assets/LINKERS & LOADERS (cover).png" alt="Book Cover" width="320">
 
+## Jo Van Hoey
+
+[Beginning x64 Assembly Programming: From Novice to AVX Professional](https://link.springer.com/book/10.1007/978-1-4842-5076-1)
+<img src="./assets/Beginning x64 Assembly Programming cover.webp" alt="Book Cover" width="320">
+
 ## Michael Abrash
 
 [Zen of Assembly Language](https://www.jagregory.com/abrash-zen-of-asm/)  
@@ -106,6 +111,8 @@ Order by interest. My preference was on simple tools written in a C-like, data-o
 
 [DynASM](https://github.com/Esvandiary/DynASM)
 
+[AssemblyLine](https://github.com/0xADE1A1DE/AssemblyLine)
+
 [AsmJit](https://github.com/asmjit)
 
 * [AsmTK](https://github.com/asmjit/asmtk)
@@ -119,6 +126,10 @@ Order by interest. My preference was on simple tools written in a C-like, data-o
 [HLA](https://plantation-productions.com/Webster/HighLevelAsm/index.html)
 
 Assemblers below are just noted to exist but I don't care for.
+
+[xbyak](https://github.com/herumi/xbyak)
+
+[Keystone assembler framework](https://github.com/keystone-engine/keystone)
 
 [MASM](https://github.com/qb40/masm)
 
@@ -137,3 +148,5 @@ Assemblers below are just noted to exist but I don't care for.
 [SBCL: the ultimate assembly code breadboard](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 
 [mschwartz's assembly tutorial](https://github.com/mschwartz/assembly-tutorial)
+
+[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://youtu.be/dOfucXtyEsU)
