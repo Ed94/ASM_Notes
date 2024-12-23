@@ -95,6 +95,12 @@ https://www.johnlevine.com/index.phtml
 * [Part 2 - We're Writing a Virtual Machine](https://gpfault.net/posts/asm-tut-2.txt.html)
 * [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
 
+## Ryan Fluery
+
+[Demystifying Debuggers, Part 2: The Anatomy Of A Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
+
+Goes over OS exectuable format, loaders, etc.
+
 ## Tools
 
 Order by interest. My preference was on simple tools written in a C-like, data-oriented, or procedural way. I don't want to deal with low level tooling marred by dense language abstractions.
