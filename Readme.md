@@ -59,6 +59,8 @@ https://www.davidsalomon.name
 [Assemblers and Loaders (1993)](https://www.davidsalomon.name/assem.advertis/AssemAd.html)  
 <img src="./assets/ASSEMBLERS%20AND%20LOADERS%20(upscale%20&%20cleanedup).png" alt="Book Cover" width="320">
 
+[Affine Notes](https://app.affine.pro/workspace/3fc9d28f-0ee6-4e4c-9675-79230706f341/koifv--tIzioAWQsC3OY0?mode=edgeless)
+
 ## Edson Borin
 
 [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book/riscv-book.html)  
@@ -97,9 +99,8 @@ https://www.johnlevine.com/index.phtml
 
 ## Ryan Fluery
 
-[Demystifying Debuggers, Part 2: The Anatomy Of A Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
-
-Goes over OS exectuable format, loaders, etc.
+[Demystifying Debuggers, Part 2: The Anatomy Of A Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)  
+Goes over OS exectuable format, loaders.
 
 ## Tools
 
