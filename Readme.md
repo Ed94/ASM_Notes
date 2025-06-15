@@ -27,7 +27,7 @@ These are in alphabetical order by author.
 
 ## Brian R. Hall
 
-[Assembly Programming and Computer Architecture for Software Engineers](https://brianrhall.com/book/)
+[Assembly Programming and Computer Architecture for Software Engineers](https://brianrhall.com/book/)  
 <img src="./assets/Assembly Programming and Computer Architecture for Software Engineers (Cover_Ed2).png" alt="Book Cover" width="320">
 
 
@@ -66,6 +66,10 @@ https://www.davidsalomon.name
 [An Introduction to Assembly Programming with RISC-V](https://riscv-programming.org/book/riscv-book.html)  
 <img src="./assets/An Introduction to Assembly Programming with RISC-V.jpg" alt="Book Cover" width="320">
 
+## FFmpeg
+
+[asm-lessons](https://github.com/FFmpeg/asm-lessons)
+
 ## Ian Lance Taylor
 
 [20 part Linker Essay (on LWN)](https://lwn.net/Articles/276782/)  
@@ -80,7 +84,7 @@ https://www.johnlevine.com/index.phtml
 
 ## Jo Van Hoey
 
-[Beginning x64 Assembly Programming: From Novice to AVX Professional](https://link.springer.com/book/10.1007/978-1-4842-5076-1)
+[Beginning x64 Assembly Programming: From Novice to AVX Professional](https://link.springer.com/book/10.1007/978-1-4842-5076-1)  
 <img src="./assets/Beginning x64 Assembly Programming cover.webp" alt="Book Cover" width="320">
 
 ## Michael Abrash
@@ -144,6 +148,8 @@ Assemblers below are just noted to exist but I don't care for.
 
 [GAS](https://wiki.osdev.org/GAS)
 
+[LIEF](https://github.com/lief-project/LIEF)
+
 ## Exectuable Formats
 
 * [PE Format](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format?redirectedfrom=MSDN)
@@ -157,3 +163,7 @@ Assemblers below are just noted to exist but I don't care for.
 [mschwartz's assembly tutorial](https://github.com/mschwartz/assembly-tutorial)
 
 [CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://youtu.be/dOfucXtyEsU)
+
+[Learning Assembly YT Playlist](https://www.youtube.com/playlist?list=PLHJns8WZXCdvESvdr1BRjo4RHiR1Ylhw9)  
+
+[OSdev Entry](https://wiki.osdev.org/Assembly)
