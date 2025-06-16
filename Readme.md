@@ -114,11 +114,9 @@ Order by interest. My preference was on simple tools written in a C-like, data-o
 
 * [ZASM (Zydis frontend, not to be confused with Z80 assembler...)](https://github.com/zyantific/zasm)
 
-[YASM (Rewrite (on some) of Netwide in C)](https://yasm.tortall.net)
+[Netwide Assembler](https://www.nasm.us)
 
-* [Design](https://www.tortall.net/projects/yasm/reference/design/design.pdf)
-* [User Manual](https://www.tortall.net/projects/yasm/manual/manual.pdf)
-* [libyasm](https://www.tortall.net/projects/yasm/reference/libyasm-doc/html/files.html)
+[EuroAssembler](https://euroassembler.eu/eadoc/)
 
 [DynASM](https://github.com/Esvandiary/DynASM)
 
@@ -132,9 +130,17 @@ Order by interest. My preference was on simple tools written in a C-like, data-o
 
 [FASM](https://flatassembler.net)
 
+[YASM (Rewrite (on some) of Netwide in C)](https://yasm.tortall.net)
+
+* [Design](https://www.tortall.net/projects/yasm/reference/design/design.pdf)
+* [User Manual](https://www.tortall.net/projects/yasm/manual/manual.pdf)
+* [libyasm](https://www.tortall.net/projects/yasm/reference/libyasm-doc/html/files.html)
+
 [TASM](https://github.com/qb40/tasm)
 
 [HLA](https://plantation-productions.com/Webster/HighLevelAsm/index.html)
+
+[libasm](https://github.com/tgtakaoka/libasm)
 
 Assemblers below are just noted to exist but I don't care for.
 
@@ -143,8 +149,6 @@ Assemblers below are just noted to exist but I don't care for.
 [Keystone assembler framework](https://github.com/keystone-engine/keystone)
 
 [MASM](https://github.com/qb40/masm)
-
-[Netwide Assembler](https://www.nasm.us)
 
 [GAS](https://wiki.osdev.org/GAS)
 
